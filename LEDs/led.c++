@@ -1,5 +1,5 @@
 // C++ code
-//
+
 #include <Servo.h>
 
 int sensorValue = 0;
